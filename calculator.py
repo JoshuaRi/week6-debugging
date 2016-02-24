@@ -1,12 +1,12 @@
 def add(first,second):
     # TODO:
     # there's an error in this code, fix it
-    return(first + second)
+    return (first + second)
 
 def subtract(first,second):
     # TODO:
     # fill in code here that will return the difference between first and second
-return(first - second)
+return (first - second)
 def multiply(first,second):
     # TODO:
     # fill in code here that will return the product of first and second
