@@ -1,17 +1,17 @@
-def add('first','second'):
+def add(first,second):
     # TODO:
     # there's an error in this code, fix it
-    return ('first' + 'second')
+    return (first' + second)
 
-def subtract('first','second'):
+def subtract(first,second):
     # TODO:
     # fill in code here that will return the difference between first and second
-return ('first' - 'second')
-def multiply('first','second'):
+return (first - second)
+def multiply(first,second):
     # TODO:
     # fill in code here that will return the product of first and second
-return ('first' * 'second')
-def divide('first','second'):
+return (first * second)
+def divide(first,second):
     # TODO:
     # fill in code here that:
     #   1. checks the second number to see if it is zero
@@ -20,5 +20,5 @@ def divide('first','second'):
     #   3. returns the quotient of first and second
     if second ==0 
       print('I'm sorry, I can't divide by zero')
-     else return ('first' / 'second')
+     else return (first' / second)
  
