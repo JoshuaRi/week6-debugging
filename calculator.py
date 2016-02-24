@@ -20,5 +20,6 @@ def divide(first,second):
     #   3. returns the quotient of first and second
     if second == 0:
       print('I am sorry, I cannot divide by zero')
-     else return (first / second)
+     else:
+        return (first / second)
  
