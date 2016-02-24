@@ -1,7 +1,7 @@
 def add(first,second):
     # TODO:
     # there's an error in this code, fix it
-    return (first' + second)
+    return (first + second)
 
 def subtract(first,second):
     # TODO:
